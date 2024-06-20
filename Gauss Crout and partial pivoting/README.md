@@ -4,8 +4,11 @@ z wyborem częściowym (zmiana po wierszach). Rozwiąż następujący układ ró
 w postaci macierzy rozszerzonej (plik RURL_dane3.txt):
 
 2 4 2 1 10
+
 1 2 3 3 6
+
 4 5 2 1 6
+
 0 1 2 9 1
 
 Wymagania:
