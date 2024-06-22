@@ -1,4 +1,4 @@
-<h3>Lab 04</h3>
+<h3>Lab 05</h3>
 Zadanie:
 
 Napisz program, który będzie rozwiązywał układ 𝑛 równań liniowych o 𝑛 niewiadomych 
