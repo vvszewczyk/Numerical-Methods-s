@@ -1,5 +1,6 @@
 <h3>Lab 09/10</h3>
 Zadanie 1
+
 Napisz program, który będzie obliczał współczynniki dla wielomianu aproksymującego
 dowolnego stopnia. Wymagania:
 
@@ -20,6 +21,7 @@ funkcji aproksymującej w węzłach aproksymacji
 Przeprowadź aproksymację za pomocą funkcji liniowej dla punktów podanych w przykładzie.
 
 Zadanie 2
+
 Napisz program, który będzie obliczał współczynniki dla wielomianu aproksymującego
 dowolnego stopnia. Wymagania:
 
