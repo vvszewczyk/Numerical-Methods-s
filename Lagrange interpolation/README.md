@@ -21,7 +21,7 @@ c) W wyniku działania program wypisuje:
 Na UPEL należy przesłać plik *.cpp opracowanego programu oraz wyniki obliczeń 
 w formie krótkiego sprawozdania (dodać zrzuty ekranu) dla przykładu przedstawionego
 w niniejszej instrukcji. Obliczyć wartość wielomianu dla x = -1 oraz x = 0,5 (7p).
-![lagrange1](images/lagrange1.png)
+![lagrange1](../images/lagrange1.png)
 
 
 
