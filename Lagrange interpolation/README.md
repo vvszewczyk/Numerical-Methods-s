@@ -24,7 +24,7 @@ w niniejszej instrukcji. Obliczyć wartość wielomianu dla x = -1 oraz x = 0,5 
 
 Poniżej przedstawiono zrzut ekranu przedstawiający wynik dla zadania pierwszego:
 <p align="center">
-![lagrange1](../images/lagrange1.png)
+<img src="../images/lagrange1.png" alt="lagrange1">
 </p>
 
 
@@ -36,5 +36,5 @@ procedurę obliczania szukanej wartości (3p).
 
 Poniżej przedstawiono zrzut ekranu przedstawiający wynik dla zadania drugiego:
 <p align="center">
-![lagrange1](../images/lagrange2.png)
+<img src="../images/lagrange2.png" alt="lagrange2">
 </p>
