@@ -21,8 +21,11 @@ c) W wyniku działania program wypisuje:
 Na UPEL należy przesłać plik *.cpp opracowanego programu oraz wyniki obliczeń 
 w formie krótkiego sprawozdania (dodać zrzuty ekranu) dla przykładu przedstawionego
 w niniejszej instrukcji. Obliczyć wartość wielomianu dla x = -1 oraz x = 0,5 (7p).
+![lagrange1](./images/lagrange1.png)
 
-Zad 2. Oblicz wartość √50 3
+
+
+Zad 2. Oblicz wartość [3]√50
 za pomocą wielomianu interpolacyjnego Lagrange’a dla funkcji 
 𝑦 = [3]√𝑥
 i węzłów interpolacji 𝑥0 = 27, 𝑥1 = 64, 𝑥2 = 125, 𝑥3 = 216. W sprawozdaniu opisz 
