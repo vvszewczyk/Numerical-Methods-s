@@ -18,6 +18,16 @@ c) W wyniku działania program wypisuje:
 
 • Rozwiązanie układu równań (𝑥0 − 𝑥𝑛)
 
-Poprawność działania programu zweryfikować danymi, które podano w przykładzie wyżej.
 W sprawozdaniu zamieścić wyniki rozwiązania układu równań podanego w plikach 
 tekstowych: RURL_dane1.txt, RURL_dane2.txt
+
+Poniżej przedstawiono wyniki dla pliku:
+
+a) RURL_dane1.txt
+<p align ="center">
+  <img src="../images/gauss1.png" alt="gauss1">
+</p>
+b) RURL_dane2.txt
+<p align ="center">
+  <img src="../images/gauss2.png" alt="gauss2">
+</p>
