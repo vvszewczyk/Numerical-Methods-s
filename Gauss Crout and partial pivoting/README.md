@@ -26,6 +26,17 @@ b) W wyniku działania program wypisuje:
 Poprawność działania programu zweryfikować danymi, które podano w przykładzie wyżej
 (RURL_dane1).
 
+Poniżej przedstawiono wyniki działania funkcji dla Metody Gaussa z partial pivotingiem:
+- dla pliku RURL_dane1.txt:
+<p align="center">
+  <img src="../images/partialpivo1.png" alt="partialpivo1">
+</p>
+
+- dla pliku RURL_dane3.txt:
+<p align="center">
+  <img src="../images/partialpivo2.png" alt="partialpivo2">
+</p>
+
 Zad 2. Napisz funkcję do rozwiązywania układu 𝑛 równań liniowych o 𝑛 niewiadomych
 z wyborem częściowym (zmiana po kolumnach - Eliminacja Gaussa-Crouta). Rozwiąż układ
 równań podany w pliku tekstowym (RURL_dane2.txt).
@@ -43,3 +54,9 @@ d) W wyniku działania program wypisuje:
 • wektor przechowujący informację o numerach kolumn
 
 • Rozwiązanie układu równań (𝑥0 − 𝑥𝑛)
+
+Poniżej przedstawiono wyniki działania funkcji dla Metody Gaussa-Crouta dla pliku RURL_dane2.txt:
+
+<p align="center">
+  <img src="../images/gausscrout.png" alt="gausscrout">
+</p>
