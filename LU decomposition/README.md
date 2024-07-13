@@ -22,3 +22,13 @@ c) W wyniku działania program wypisuje:
 • Rozwiązanie układu równań (𝑥0 − 𝑥𝑛)
 
 Poprawność działania programu zweryfikować danymi, które podano w przykładzie wyżej.
+Poniżej przedstawiono wyniki dla poszczególnych plików:
+- RURL_dane1.txt:
+<p align="center">
+  <img src="../images/lu1.png" alt="lu1">
+</p>
+
+- RURL_dane2.txt:
+<p align="center">
+  <img src="../images/lu2.png" alt="lu2">
+</p>
