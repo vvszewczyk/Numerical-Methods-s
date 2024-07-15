@@ -19,6 +19,7 @@ diagonalnie słabo dominująca i wyświetli stosowny komunikat.
 W sprawozdaniu należy zamieścić rozwiązanie układu równań przedstawionego
 w przykładzie dla 5 iteracji. Za początkowe wartości wektora x przyjąć 0. Porównaj wyniki
 uzyskane metodą Jacobiego i Gaussa.
+
 Wyniki:
 <p align="center">
   <img src="../images/jacobi1.png" alt="jacobi1">
