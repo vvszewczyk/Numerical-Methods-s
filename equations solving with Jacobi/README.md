@@ -1,6 +1,6 @@
 <h3>Lab 06</h3>
 Zad 1. Napisz program, który będzie rozwiązywał układ 𝑛 równań liniowych
-o 𝑛 niewiadomych metodą Jacobiego (7 pkt). 
+o 𝑛 niewiadomych metodą Jacobiego. 
 Wymagania:
 
 • Dane pobierane są z pliku.
@@ -19,6 +19,10 @@ diagonalnie słabo dominująca i wyświetli stosowny komunikat.
 W sprawozdaniu należy zamieścić rozwiązanie układu równań przedstawionego
 w przykładzie dla 5 iteracji. Za początkowe wartości wektora x przyjąć 0. Porównaj wyniki
 uzyskane metodą Jacobiego i Gaussa.
+Wyniki:
+<p align="center">
+  <img src="../images/jacobi1.png" alt="jacobi1">
+</p>
 
 Zad 2. Zaimplementować warunek stopu w postaci (3 pkt):
 
