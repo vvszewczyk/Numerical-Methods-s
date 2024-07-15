@@ -38,3 +38,13 @@ dokładnością program nie liczył w nieskończoność.
 • Program wypisze przyjętą wartość błędu 𝜀, ilość wykonanych iteracji, rozwiązanie
 układu równań i obliczoną wartość błędu dla każdego x. Obliczenia wykonać dla
 𝜀 = 0.001 oraz 𝜀 = 0.000001.
+
+Wyniki dla:
+- 𝜀 = 0.001
+<p align="center">
+  <img src="../images/jacobi2.png" alt="jacobi2">
+</p>
+- 𝜀 = 0.000001
+<p align="center">
+  <img src="../images/jacobi3.png" alt="jacobi3">
+</p>
