@@ -5,7 +5,7 @@ Zad 1.
 Napisz program, który obliczy całkę z dowolnej funkcji podcałkowej za pomocą metody
 prostokątów, trapezów i parabol (trzy funkcje). Dostosuj wzór 6 do obliczania całki
 w zależności od liczby przedziałów. Funkcja podcałkowa powinna być jednym z argumentów
-dla funkcji obliczających wartość całki daną metodą (8p).
+dla funkcji obliczających wartość całki daną metodą.
 
 Program powinien wyświetlać:
 
