@@ -19,6 +19,10 @@ c) W wyniku działania program wypisuje:
 funkcji aproksymującej w węzłach aproksymacji
 
 Przeprowadź aproksymację za pomocą funkcji liniowej dla punktów podanych w przykładzie.
+Poniżej zrzut ekranu dla zadania pierwszego:
+<p align ="center">
+  <img src="../images/aprox1.png" alt="aprox1">
+</p>
 
 Zadanie 2
 
@@ -41,3 +45,21 @@ wartości funkcji aproksymującej 𝑦𝑚(𝑥)
 Przeprowadź aproksymację za pomocą funkcji liniowej i kwadratowej dla danych: (1, 2),
 (2, 4), (3, 3), (4, 5), (5, 6), (6, 9), (7, 11), (8, 11).
 Oblicz wartość funkcji dla 𝑥 = 2.5 i 𝑥 = 6.5.
+Poniżej przedstawiono zrzuty ekranu z konsoli dla poszczególnych stopni wielomianów:
+a) stopień = 1
+
+<p align ="center">
+  <img src="../images/aprox2.png" alt="aprox2">
+</p>
+
+b) stopień = 4
+
+<p align ="center">
+  <img src="../images/aprox3.png" alt="aprox3">
+</p>
+
+c) stopień = 6
+
+<p align ="center">
+  <img src="../images/aprox4.png" alt="aprox4">
+</p>
