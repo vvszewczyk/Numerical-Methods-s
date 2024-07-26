@@ -4,6 +4,7 @@ Zadanie 1.
 
 Napisz program, który rozwiąże dowolne równanie nieliniowe metodą stycznych
 i siecznych. 
+
 Wymagania:
 
 • Funkcję 𝑓(𝑥) i pochodną funkcji 𝑓′(𝑥) implementujemy jako odrębne funkcje.
