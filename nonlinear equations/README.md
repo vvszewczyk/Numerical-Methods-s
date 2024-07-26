@@ -29,7 +29,9 @@ startowy i liczbę iteracji przyjmij dowolnie.
 Poniżej przedstawiono zrzuty ekranu dla zadania pierwszego:
 <p align="center">
   <img src="../images/nielin1.png" alt="nielin1">
+  <br>
   <img src="../images/nielin2.png" alt="nielin2">
+  <br>
   <img src="../images/nielin3.png" alt="nielin3">
 </p>
 
