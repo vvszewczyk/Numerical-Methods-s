@@ -16,4 +16,14 @@ Wyznacz rozwiązanie w punkcie 𝑥 = 1 dla 𝑁 = 10 dla następujących równa
 
 𝑦′(𝑥) = 𝑥^2 + 𝑦, 𝑦(0) = 0.1
 
+Wynik dla powyższego równania:
+<p align ="center">
+  <img src="../images/rr1.png" alt="rr1">
+</p>
+
 𝑦′(𝑥) = x + 𝑦, 𝑦(0) = 0.1
+
+Wynik dla powyższego równania:
+<p align ="center">
+  <img src="../images/rr2.png" alt="rr2">
+</p>
